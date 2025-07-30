@@ -21,19 +21,19 @@ To get a local copy of this game up and running, follow these simple steps:
 ### Prerequisites
 
 Make sure Python 3 is installed on your system. You can check this by running:
+
 ```bash
 python --version
+```
 
-
-##📄 How to Play
+## 📖 How to Play
 The program will generate a random number between 1 and 100.
 
 You will be asked to guess the number.
 
 After each guess, the program will tell you:
 
-If your guess is too high
-
-If your guess is too low
+- If your guess is too high  
+- If your guess is too low  
 
 When you guess the correct number, the game congratulates you and shows the number of attempts you took.
